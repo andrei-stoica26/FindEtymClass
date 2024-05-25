@@ -1,2 +1,2 @@
 # FindEtymClass
-Predicting neologisms among Romanian words using sklearn and Wiktionary data
+Predicting neologisms among Romanian words using Wiktionary data, scikit-learn and TensorFlow (LSTM).
